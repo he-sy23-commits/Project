@@ -3,3 +3,4 @@ f75c2f64db0dc3b127ab2750a60b1767.obj filter=lfs diff=lfs merge=lfs -text
 git[[:space:]]add[[:space:]].gitattributegit[[:space:]]lfs[[:space:]]track[[:space:]]f75c2f64db0dc3b127ab2750a60b1767.obj filter=lfs diff=lfs merge=lfs -text
 1.obj filter=lfs diff=lfs merge=lfs -text
 1.glb filter=lfs diff=lfs merge=lfs -text
+paifang.mp4 filter=lfs diff=lfs merge=lfs -text
